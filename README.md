@@ -23,8 +23,8 @@ This project was inspired by [grugq/portal](https://github.com/grugq/portal).
   * flash a stock firmware image from the [TL-WR902ACv1 OpenWRT Wiki](https://openwrt.org/toh/tp-link/tl-wr902ac_v1)
 * Flash the `openwrt-18.06.8-ar71xx-generic-tl-wr902ac-v1-squashfs-sysupgrade.bin` image from this repo
 * `ssh` to the router
-  * Set the root password (_no default password_)
-  * Set the wifi password (_default:_ supersecret)
+  * Set the root password (_default: None_)
+  * Set the wifi password (_default:_ `supersecret`)
   * Restart the router
 
 ## Building

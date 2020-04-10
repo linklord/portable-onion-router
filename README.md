@@ -6,7 +6,9 @@ University of New South Wales, 20T1
 
 ## Overview
 
-The goal of this project was to build an inexpensive, ultra-portable router that transparently forces all traffic over the Tor network. This router is ideal when anonymity over the internet is a priority and you want to avoid making mistakes.
+The goal of this project was to build an inexpensive, ultra-portable router that transparently forces all traffic over the Tor network. This router is ideal when anonymity over the internet is a priority and you want to avoid making critical mistakes.
+
+The hardware used is a TP-Link TL-WR902AC Wireless Travel Router paired with a Hauwei E3372 LTE USB modem, both of which are widely available and inexpensive of as April 2020. The OpenWRT build for this project is configured to perform well on the router's limited memory profile (8MB flash/64MB RAM). The router has two wireless radios, so it's possible to configure the second as the WAN interface if using the USB modem isn't an option.
 
 This project was inspired by [grugq/portal](https://github.com/grugq/portal).
 

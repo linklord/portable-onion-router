@@ -1,0 +1,9 @@
+1cee7a9863703bfaa2c9a57c4775a28c278fcef0fd95cb37aac7e8af3aa03d1e *openwrt-18.06.8-ar71xx-generic-device-tl-wr902ac-v1.manifest
+64fcdc0aea9b86554228f553d615307c64eb81bcb09d619eac425dabd748dc73 *openwrt-18.06.8-ar71xx-generic-root.squashfs
+53bf778e22141f2c4a879f56934521daf8d6ec658bc6212f0baffd1c3732632d *openwrt-18.06.8-ar71xx-generic-tl-wr902ac-v1-squashfs-factory.bin
+9ca92bc853e5a902bacd9774fe9b8df0db937c8f18f4848897b0e123b8c344b0 *openwrt-18.06.8-ar71xx-generic-tl-wr902ac-v1-squashfs-sysupgrade.bin
+c923770a99347693fc160d97fb6896095c00b7664fe9a2025da91aff474cc1d7 *openwrt-18.06.8-ar71xx-generic-uImage-lzma.bin
+c857a0472a687736ca04878e130656e590f2c3b73b1cbdc61c7886ec01873743 *openwrt-18.06.8-ar71xx-generic-vmlinux-lzma.elf
+932ed0f848743aecc9d9d8fa765fddd1b29e0609897b48e57ba4edff38aabb7c *openwrt-18.06.8-ar71xx-generic-vmlinux.bin
+3da4e7c42b8600035df54d198f8f91de2525ab9db863419c1e660d7e8dc1c1fa *openwrt-18.06.8-ar71xx-generic-vmlinux.elf
+45d3362700b8ff823d5066708e387771594bbdcdff7767ccbf20b304eeb5cb7f *openwrt-18.06.8-ar71xx-generic-vmlinux.lzma

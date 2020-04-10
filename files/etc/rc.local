@@ -1,9 +1,7 @@
 # Put your custom commands here that should be executed once
 # the system init finished. By default this file does nothing.
 
-/bin/sh /root/internet-start.sh
-/bin/sh /root/internet-check.sh &
-
-
+/bin/sh /root/tor-led-start.sh
+/bin/sh /root/tor-led-check.sh &
 
 exit 0

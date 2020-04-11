@@ -32,7 +32,7 @@ This project was inspired by [grugq/portal](https://github.com/grugq/portal).
 If you want to build the firmawre image yourself:
 
 * Read the OpenWRT [Using the Image Builder](https://openwrt.org/docs/guide-user/additional-software/imagebuilder) guide
-* Download/extract the `v18.06.8` [Image Builder](https://downloads.openwrt.org/releases/18.06.8/targets/ar71xx/generic/) archive
+* Download/extract the [Image Builder](https://downloads.openwrt.org/releases/18.06.8/targets/ar71xx/generic/) archive from the `v18.06.8`  release
 * Copy `files/` from this repo into the extracted image builder directory
 * Run the build
 

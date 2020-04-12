@@ -29,7 +29,7 @@ This project was inspired by [grugq/portal](https://github.com/grugq/portal).
 
 ## Building
 
-If you want to build the firmawre image yourself:
+If you want to build the firmware image yourself:
 
 * Read the OpenWRT [Using the Image Builder](https://openwrt.org/docs/guide-user/additional-software/imagebuilder) guide
 * Download/extract the [Image Builder](https://downloads.openwrt.org/releases/18.06.8/targets/ar71xx/generic/) archive from the `v18.06.8`  release

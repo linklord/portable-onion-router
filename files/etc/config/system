@@ -1,0 +1,35 @@
+
+config system
+	option hostname 'iykyk'
+	option timezone 'UTC'
+	option ttylogin '0'
+	option log_size '64'
+	option urandom_seed '0'
+
+config timeserver 'ntp'
+	option enabled '1'
+	option enable_server '0'
+	list server '0.openwrt.pool.ntp.org'
+	list server '1.openwrt.pool.ntp.org'
+	list server '2.openwrt.pool.ntp.org'
+	list server '3.openwrt.pool.ntp.org'
+
+config led 'led_lan'
+	option name 'LAN'
+	option sysfs 'tl-wr902ac-v1:green:lan'
+	option trigger 'netdev'
+	option mode 'link tx rx'
+	option dev 'eth0'
+
+config led 'led_usb'
+	option name 'USB'
+	option sysfs 'tl-wr902ac-v1:green:usb'
+	option trigger 'usbdev'
+	option interval '50'
+	option dev '1-1'
+
+config led 'led_wlan2g'
+	option name 'WLAN2G'
+	option sysfs 'tl-wr902ac-v1:green:wlan2g'
+	option trigger 'phy0tpt'
+

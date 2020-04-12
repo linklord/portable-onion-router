@@ -42,4 +42,4 @@ make image PROFILE=tl-wr902ac-v1
            FILES=files/
 ```
 
-* Continue with _Installation_ instructions above
+* Continue with _Installation_ instructions above using the generated image
